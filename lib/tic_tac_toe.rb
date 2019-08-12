@@ -1,6 +1,4 @@
-puts "Welcome to Tic Tac Toe!"
-game = TicTacToe.new
-game.play
+
 class TicTacToe
 #all methods go in here
 
